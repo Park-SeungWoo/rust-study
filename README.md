@@ -50,3 +50,7 @@ If there is any function-like code with explanation mark, it is a macro.
 # Other grammar-related contents
 
 Each source file which is referenced by indices, is contains every explanation as comments.
+
+# References
+
+[Youtube video](https://www.youtube.com/watch?v=-AAtfPHEMbA&list=PL53JxaGwWUqCr3xm4qvqbgpJ4Xbs4lCs7)

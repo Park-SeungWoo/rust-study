@@ -2,24 +2,42 @@
 
 mod index;
 
+use index::basics;
+use index::mutability;
+use index::arr_slice_ownership;
+use index::string_prac;
+use index::if_for_while;
+use index::structs;
+use index::traits_prac;
+use index::enums_prac;
+use index::vectors_prac;
+use index::hash_map;
+use index::options_prac;
+use index::results;
+use index::mutable_immutable_ref;
+use index::lifetimes;
+use index::crates;
+use index::macros;
+use index::advanced_macros;
+
 fn main() {
-    // index::basics::basics_fn();
-    // index::mutability::mutability_fn();
-    // index::arr_slice_ownership::arr_slice_fn();
-    // index::string_prac::string_fn();
-    // index::if_for_while::if_for_while_fn();
-    // index::structs::structs_fn();
-    // index::traits_prac::traits_fn();
-    // index::enums_prac::enums_fn();
-    // index::vectors_prac::vectors_fn();
-    // index::hash_map::hash_map_fn();
-    // index::options_prac::options_fn();
-    // index::results::results_fn();
+    // basics::basics_fn();
+    // mutability::mutability_fn();
+    // arr_slice_ownership::arr_slice_fn();
+    // string_prac::string_fn();
+    // if_for_while::if_for_while_fn();
+    // structs::structs_fn();
+    // traits_prac::traits_fn();
+    // enums_prac::enums_fn();
+    // vectors_prac::vectors_fn();
+    // hash_map::hash_map_fn();
+    // options_prac::options_fn();
+    // results::results_fn();
 
     // additional
-    // index::mutable_immutable_ref::mut_immut_fn();
-    index::lifetimes::lifetimes_fn();
-    // index::crates::crate_fn();
-    // index::macros::macros_fn();
-    // index::advanced_macros::advanced_macros_fn();
+    // mutable_immutable_ref::mut_immut_fn();
+    lifetimes::lifetimes_fn();
+    // crates::crate_fn();
+    // macros::macros_fn();
+    // advanced_macros::advanced_macros_fn();
 }
