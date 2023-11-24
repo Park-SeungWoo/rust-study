@@ -1,6 +1,6 @@
 pub fn arr_slice_fn() {
     /*
-    Every types i.e primitive type that has pre-declaration of size is stored in stack memory
+    Every type which has pre-declaration of size is stored in stack memory
     And also every values in rust has owner.
     The ownership has difference between stack, heap
     In stack, the value will be copied typically. Imagine the behavior in c-lang about the stack-stored value.

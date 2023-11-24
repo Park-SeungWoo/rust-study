@@ -16,8 +16,11 @@
 > 10. [Hash Maps](./src/index/hash_map.rs)
 > 11. [Options](./src/index/options_prac.rs)
 > 12. [Results](./src/index/results.rs)
-> 13. [Mutable, Immutable reference](./src/index/mutable_immutable_ref.rs)
-> 14. [Some other things (advanced)](./src/index/)
+> 13. [Mutable, Immutable references](./src/index/mutable_immutable_ref.rs)
+> 14. [Lifecycles](./src/index/lifecycle_prac.rs)
+> 15. [Crates](./src/index/crates.rs)
+> 16. [Macros](./src/index/macros.rs)
+> 17. [Advanced Macros](./src/index/advanced_macros.rs)
 
 # Prerequisites
 
