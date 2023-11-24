@@ -1,12 +1,8 @@
 # Objective
 
-<hr>
-
 > With this course, I'll master **rust-lang** for solana development.
 
 # Index
-
-<hr>
 
 > 1. [Basic](./src/index/basics.rs)
 > 2. [Mutability](./src/index/mutability.rs)
@@ -50,4 +46,4 @@ If there is any function-like code with explanation mark, it is a macro.
 
 # Other grammar-related contents
 
-All the explanation is contained in each source files.<br>
+Each source file which is referenced by indices, is contains every explanation as comments.
