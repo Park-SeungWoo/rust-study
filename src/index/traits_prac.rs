@@ -1,3 +1,5 @@
+#![allow(unused)]
+
 pub fn traits_fn() -> () {  // return void
     let bird = Bird {name: String::from("bird"), attack: 5};
     println!("{}", bird.can_fly());

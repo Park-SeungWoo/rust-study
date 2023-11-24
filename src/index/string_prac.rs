@@ -1,3 +1,5 @@
+#![allow(unused)]
+
 pub fn string_fn() {
     let str: &str = "hello world";  // Refers the string literal not the string object by making the object in heap memory.
     let mut str2: String = String::from("hello world");  // Make an object in heap memory and set the owner as the variable str2.

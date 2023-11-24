@@ -1,3 +1,5 @@
+#![allow(unused)]
+
 pub fn structs_fn() {
     let name = String::from("bird");
     let bird: Bird = Bird {name: name, attack: 5};

@@ -16,6 +16,7 @@ pub fn enums_fn() {
 }
 
 #[derive(Debug)]  // Let the compiler know about how to print our enum (In my opinion, it tells that our enum is derived from Debug)
+// In a nutshell, to print our enum, struct, or something, we need to use this command
 enum MyEnum {
     A,
     B(i32),
