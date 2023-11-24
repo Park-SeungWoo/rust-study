@@ -17,7 +17,7 @@
 > 11. [Options](./src/index/options_prac.rs)
 > 12. [Results](./src/index/results.rs)
 > 13. [Mutable, Immutable references](./src/index/mutable_immutable_ref.rs)
-> 14. [Lifecycles](./src/index/lifecycle_prac.rs)
+> 14. [Lifetimes](./src/index/lifetimes.rs)
 > 15. [Crates](./src/index/crates.rs)
 > 16. [Macros](./src/index/macros.rs)
 > 17. [Advanced Macros](./src/index/advanced_macros.rs)

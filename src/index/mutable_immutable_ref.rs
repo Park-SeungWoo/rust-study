@@ -28,7 +28,7 @@ pub fn mut_immut_fn() {
     1. If we already borrow some value as immutable, we cannot mutably borrow it again.
     2. If we already borrow some value as mutable, we cannot immutably borrow it again.
     These two conditions are applied when the variable that mut or immutably borrowed some value for the first time, is used after the second borrow statement.
-    3. If we mutably borrow some value which is already mutably borrowed.
+    3. We can not mutably borrow some value which is already mutably borrowed.
     It doesn't matter if we immutably borrow some value again and again, While mutable references are not allowed multiple statement in the same scope.
      */
 }
