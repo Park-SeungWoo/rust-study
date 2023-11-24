@@ -14,8 +14,12 @@ fn main() {
     // index::vectors_prac::vectors_fn();
     // index::hash_map::hash_map_fn();
     // index::options_prac::options_fn();
-    index::results::results_fn();
+    // index::results::results_fn();
 
     // additional
     // index::mutable_immutable_ref::mut_immut_fn();
+    index::lifecycle_prac::lifecycle_fn();
+    // index::crates::crate_fn();
+    // index::macros::macros_fn();
+    // index::advanced_macros::advanced_macros_fn();
 }

@@ -10,5 +10,8 @@ pub mod vectors_prac;
 pub mod hash_map;
 pub mod options_prac;
 pub mod results;
-
 pub mod mutable_immutable_ref;
+pub mod lifecycle_prac;
+pub mod crates;
+pub mod macros;
+pub mod advanced_macros;

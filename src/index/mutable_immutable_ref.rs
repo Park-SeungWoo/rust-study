@@ -1,6 +1,6 @@
 pub fn mut_immut_fn() {
     let mut arr: [u8; 5] = [1, 2, 3, 4, 5];
-    let mut arr2 = arr;
+    let mut arr2 = arr;  // Copy values because it's in stack memory
     arr2[0] = 10;
 
     println!("{:?}", arr);
